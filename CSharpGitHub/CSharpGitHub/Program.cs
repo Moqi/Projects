@@ -10,7 +10,7 @@ namespace CSharpGitHub
     {
         private static void Main(string[] args)
         {
-            int x;
+            int x = 5;
         }
     }
 }
